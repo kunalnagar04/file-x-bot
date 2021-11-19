@@ -13,7 +13,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
         if user.status == "kicked":
             await bot.send_message(
                 chat_id=cmd.from_user.id,
-                text="Sᴏʀʀʏ Sɪʀ Yᴏᴜ Aʀᴇ Bᴀɴɴᴇᴅ Fʀᴏᴍ Usᴇɪɴɢ Mᴇ Pʟᴇᴀsᴇ Cᴏɴᴛᴀᴄᴛ [Vijayraj](https://t.me/Vijay_patil_9).",
+                text="Sᴏʀʀʏ Sɪʀ Yᴏᴜ Aʀᴇ Bᴀɴɴᴇᴅ Fʀᴏᴍ Usᴇɪɴɢ Mᴇ Pʟᴇᴀsᴇ Cᴏɴᴛᴀᴄᴛ [Kunal Nagar](https://t.me/Kunal_nagar_01).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -47,7 +47,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
     except Exception:
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="Sᴏᴍᴇᴛʜɪɴɢ Wᴇɴᴛ Wʀᴏɴɢ Cᴏɴᴛᴀᴄᴛ [Vijayraj](https://t.me/vijay_patil_9).",
+            text="Sᴏᴍᴇᴛʜɪɴɢ Wᴇɴᴛ Wʀᴏɴɢ Cᴏɴᴛᴀᴄᴛ [Kunal nagar](https://t.me/kunal_nagar_01).",
             parse_mode="markdown",
             disable_web_page_preview=True
         )
