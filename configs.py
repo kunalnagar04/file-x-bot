@@ -22,16 +22,16 @@ class Config(object):
 This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-🤖 **Mʏ Nᴀᴍᴇ: 𝗠𝗮𝗿𝗴𝗼𝘁 𝗥𝗼𝗯𝗯𝗶𝗲**
+🤖 **Mʏ Nᴀᴍᴇ: Mʜ Fɪʟᴇ Sᴛᴏʀᴇ ʙᴏᴛ​**
 
-🧑🏻‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @vijay_patil_9**
+🧑🏻‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @kunal_nagar_01**
 
-👥 **Gʀᴏᴜᴘ: @Movieable_Requests**
+👥 **Gʀᴏᴜᴘ: @MH_Request**
 
-📢 **Mᴏᴠɪᴇs: @Movieable**
+📢 **Mᴏᴠɪᴇs: @Movieshouse8**
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Vijay_Patil_9** 😏
+🧑🏻‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @kunal_nagar_01** 😏
 
 **Iғ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʀᴇɢᴀʀᴅɪɴɢ ᴜsɪɴɢ ᴍᴇ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ Mʏ Bᴏss - @Vijay_patil_9**
 
